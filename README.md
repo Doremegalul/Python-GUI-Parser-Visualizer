@@ -15,10 +15,10 @@ This repository hosts "Final CompletePythonGUILexer.py," a Python script that co
 
 4. Syntax Tree Visualization:
 - A dynamic tree view component visualizes the syntactic structure of parsed expressions, enhancing the application's utility in understanding and debugging code.
-
+  
 5. Error Handling:
 - The application robustly manages errors in the parsing logic, providing essential feedback on syntactic inconsistencies or issues in the input code.
-
+  
 6. Utility Functions:
 - Methods such as clear_treeview are included for maintaining the operational state of the GUI, allowing for continuous and efficient parsing operations.
 
