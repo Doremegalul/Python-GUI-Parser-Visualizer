@@ -10,10 +10,10 @@ This repository hosts "Final CompletePythonGUILexer.py," a Python script that co
 2. Interactive GUI:
 - The Tkinter-based GUI offers interactive elements such as text input areas for source code, tokenized output displays, parse trees, and current processing line indicators. User interaction is facilitated through control buttons for stepping through the code or exiting the application.
 
-3.Parsing Operations:
+3. Parsing Operations:
 - Functions like exp, if_exp, print_exp, and math handle the parsing of expressions, print statements, and if-else conditions. These methods demonstrate the script's capability in decomposing and understanding complex syntax.
 
-4.Syntax Tree Visualization:
+4. Syntax Tree Visualization:
 - A dynamic tree view component visualizes the syntactic structure of parsed expressions, enhancing the application's utility in understanding and debugging code.
 
 5. Error Handling:
@@ -22,7 +22,7 @@ This repository hosts "Final CompletePythonGUILexer.py," a Python script that co
 6. Utility Functions:
 - Methods such as clear_treeview are included for maintaining the operational state of the GUI, allowing for continuous and efficient parsing operations.
 
-7.Executable Script:
+7. Executable Script:
 - The script is structured to run as a standalone application, initializing the GUI and entering the main event loop, as indicated by the if __name__ == '__main__' block.
 
 # Application Overview:
